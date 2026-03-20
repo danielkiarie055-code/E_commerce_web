@@ -1,6 +1,6 @@
 # Luxe Fashion - Full-Stack E-Commerce Platform 
 
-A fully responsive, full-stack e-commerce web application built with a custom vanilla JavaScript frontend, a secure PHP/MySQL backend, and live Safaricom M-Pesa STK Push integration. 
+A fully responsive, full-stack e-commerce web application built with a custom JavaScript frontend, a secure PHP/MySQL backend, and live Safaricom M-Pesa STK Push integration. 
 
 This project was developed as a comprehensive demonstration of full-stack web architecture, responsive UI/UX design, and secure third-party API payment integration.
 
